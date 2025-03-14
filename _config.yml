@@ -1,6 +1,5 @@
-remote_theme: fongandrew/hydeout  # Switch to Hydeout theme
+theme: jekyll-theme-minimal  
 title: Raveesh Garg  # Website title
-sidebar_image: photo.jpg  # Adds profile photo in the sidebar
+logo: photo.jpg  # Adds profile photo in the sidebar
 sidebar_link: false  # Removes GitHub profile link from the sidebar
 show_downloads: false  # Hides "Download ZIP" and GitHub buttons
-author: ""  # Hides GitHub username
