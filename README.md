@@ -27,7 +27,7 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
  **Master’s in Electrical and Computer Engineering** at Georgia Institute of Technology
   - *Advisors*: Dr. Tushar Krishna
   - *Duration*: 2019 to 2021
-  - *Master’s Thesis*: [Understanding the Design Space of Dataflows for Graph Neural Network Accelerators](https://smartech.gatech.edu/handle/1853/64691?show=full)
+  - *Master’s Thesis*: [Understanding the Design Space of Dataflows for Graph Neural Network Accelerators](https://repository.gatech.edu/entities/publication/41a399a8-66ab-4d57-a0fd-e13e06f7ac64)
   - *GPA*: 4/4
 
  **Bachelor’s in Electronics and Instrumentation Engineering** at Birla Institute of Technology and Science, Pilani
