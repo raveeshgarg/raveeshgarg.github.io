@@ -6,7 +6,7 @@ show_downloads: false  # Hides "Download ZIP" and GitHub buttons
 github: false
 description:
   <p><br>
-  Research Website<br>
+   <a href="Public_CV.pdf">CV</a>CV<br>
   <a href="#experience">Experience</a> <br>
   <a href="#education">Education</a> <br>
   <a href="#publications">Publications</a> <br>
