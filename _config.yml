@@ -1,7 +1,6 @@
-theme: jekyll-theme-minimal
-logo: photo.jpg 
-show_downloads: false  # Hides GitHub buttons
-github:
-  is_project_page: false  # Prevents GitHub repo details from appearing
-author: ""  # Removes GitHub username from the sidebar
-title: "Raveesh Garg"
+remote_theme: fongandrew/hydeout  # Switch to Hydeout theme
+title: Raveesh Garg  # Website title
+logo: photo.jpg  # Adds profile photo in the sidebar
+sidebar_link: false  # Removes GitHub profile link from the sidebar
+show_downloads: false  # Hides "Download ZIP" and GitHub buttons
+author: ""  # Hides GitHub username
