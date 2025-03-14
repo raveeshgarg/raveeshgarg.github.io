@@ -5,7 +5,9 @@ sidebar_link: false  # Removes GitHub profile link from the sidebar
 show_downloads: false  # Hides "Download ZIP" and GitHub buttons
 github: false
 description:
-  <p>Research Website<br>
+  Research Website
+footer_content:
+<p>
   <a href="Public_CV.pdf">CV</a><br>
   <a href="#experience">Experience</a> <br>
   <a href="#education">Education</a> <br>
