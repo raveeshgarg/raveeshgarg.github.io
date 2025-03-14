@@ -38,8 +38,6 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5CKKG44AAAAJ)
 
-# Publications
-
 **CELLO: Co-designing Schedule and Hybrid Implicit/Explicit Buffer for Complex Tensor Reuse**  
 
 *Raveesh Garg*, Michael Pellauer, Sivasankaran Rajamanickam, and Tushar Krishna  
