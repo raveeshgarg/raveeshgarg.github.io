@@ -1,5 +1,5 @@
 remote_theme: poole/hyde  # Switch to Hyde theme
 title: Raveesh Garg  # Website title
 description: "PhD Student | Computer Architecture | AI Accelerators"  
-sidebar_image: path/to/photo.jpg  # Add profile image in the sidebar
+sidebar_image: photo.jpg  # Add profile image in the sidebar
 show_downloads: false  # Hide "Download ZIP" and GitHub buttons
