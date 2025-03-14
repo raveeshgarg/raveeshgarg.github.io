@@ -2,11 +2,11 @@
 
 ![Profile Photo](photo.jpg) 
 
-I am currently a PhD student in Electrical and Computer Engineering at [Georgia Institute of Technology]](https://www.gatech.edu/). I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani]](https://www.bits-pilani.ac.in/).
+I am currently a PhD student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
 My research focuses on Domain-Specific Accelerators and Mapping for AI, Graph, and HPC Applications. My general research interests include Computer Architecture, Programmable Spatial Accelerators, Domain-Specific Accelerators for AI/HPC, and On-chip Networks.
 
-[[CV]](Public_CV.pdf) 
+[CV](Public_CV.pdf) 
 
 ## Experience
 
@@ -27,7 +27,7 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
  **Master’s in Electrical and Computer Engineering** at Georgia Institute of Technology
   - *Advisor*: Dr. Tushar Krishna
   - *Duration*: 2019 to 2021
-  - *Master’s Thesis*: [[Understanding the Design Space of Dataflows for Graph Neural Network Accelerators]](https://repository.gatech.edu/entities/publication/41a399a8-66ab-4d57-a0fd-e13e06f7ac64)
+  - *Master’s Thesis*: [Understanding the Design Space of Dataflows for Graph Neural Network Accelerators](https://repository.gatech.edu/entities/publication/41a399a8-66ab-4d57-a0fd-e13e06f7ac64)
   - *GPA*: 4/4
 
  **Bachelor’s in Electronics and Instrumentation Engineering** at Birla Institute of Technology and Science, Pilani
@@ -36,12 +36,12 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
 
 ## Selected Publications and Pre-prints
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=5CKKG44AAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=5CKKG44AAAAJ)
 
 #### CELLO: Co-designing Schedule and Hybrid Implicit/Explicit Buffer for Complex Tensor Reuse
 *Raveesh Garg*, Michael Pellauer, Sivasankaran Rajamanickam, and Tushar Krishna  
 
-*39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)* [[**Accepted for publication**]][[ArXiv Link]](https://arxiv.org/pdf/2303.11499)
+*39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)* [**Accepted for publication**][[ArXiv Link]](https://arxiv.org/pdf/2303.11499)
 
 #### Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing
 Francisco Muñoz-Martínez, *Raveesh Garg*, Michael Pellauer, José L. Abellán, Manuel E. Acacio, and Tushar Krishna
@@ -88,7 +88,7 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 
 **Minisymposium** “Co-Design of Data Flow Accelerators for Scientific Simulations and Machine Learning” at SIAM PP’22.
   - *Talk Title*: Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators
-  - [[Abstract]](https://meetings.siam.org/sess/dsp_talk.cfm?p=119055)
+  - [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=119055)
 
 ## Awards and Honors
 
@@ -98,5 +98,5 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 ## Contact
 
 **Email**: raveesh <dot> g <at> gatech <dot> edu
-**LinkedIn**: [[Profile]](https://www.linkedin.com/in/raveesh-garg-61b47b150/)
+[**LinkedIn**](https://www.linkedin.com/in/raveesh-garg-61b47b150/)
 
