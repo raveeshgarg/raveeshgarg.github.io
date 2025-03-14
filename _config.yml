@@ -1,6 +1,5 @@
 remote_theme: poole/hyde  # Switch to Hyde theme
 title: Raveesh Garg  # Website title
-logo: photo.jpg  # Adds profile photo in the sidebar
-sidebar_link: false  # Removes GitHub profile link from the sidebar
-show_downloads: false  # Hides "Download ZIP" and GitHub buttons
-author: ""  # Hides GitHub username
+description: "PhD Student | Computer Architecture | AI Accelerators"  
+sidebar_image: path/to/photo.jpg  # Add profile image in the sidebar
+show_downloads: false  # Hide "Download ZIP" and GitHub buttons
