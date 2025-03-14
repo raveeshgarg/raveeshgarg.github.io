@@ -3,6 +3,8 @@ title: Raveesh Garg
 layout: default
 ---
 
+<link rel="stylesheet" type="text/css" href="assets/custom.css">
+
 I am currently a PhD student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
 My research focuses on Domain-Specific Accelerators and Mapping for AI, Graph, and HPC Applications. My general research interests include Computer Architecture, Programmable Spatial Accelerators, Domain-Specific Accelerators for AI/HPC, and On-chip Networks.
