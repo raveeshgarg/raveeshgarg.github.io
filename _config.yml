@@ -1,4 +1,4 @@
-remote_theme: fongandrew/hydeout  # Switch to Hydeout theme
+remote_theme: poole/hyde  # Switch to Hyde theme
 title: Raveesh Garg  # Website title
 logo: photo.jpg  # Adds profile photo in the sidebar
 sidebar_link: false  # Removes GitHub profile link from the sidebar
