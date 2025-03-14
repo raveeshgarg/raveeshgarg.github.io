@@ -5,8 +5,8 @@ sidebar_link: false  # Removes GitHub profile link from the sidebar
 show_downloads: false  # Hides "Download ZIP" and GitHub buttons
 github: false
 description:
-  <p><br>
-   <a href="Public_CV.pdf">CV</a><br>
+  <p>Research Website<br>
+  <a href="Public_CV.pdf">CV</a><br>
   <a href="#experience">Experience</a> <br>
   <a href="#education">Education</a> <br>
   <a href="#publications">Select Publications</a>, <a href="https://scholar.google.com/citations?user=5CKKG44AAAAJ&hl=en">Google Scholar</a> <br>
