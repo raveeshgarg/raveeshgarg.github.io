@@ -1,6 +1,6 @@
 # Raveesh Garg
 
-![[Profile Photo](photo.jpg) 
+![Profile Photo](photo.jpg) 
 
 I am currently a PhD student in Electrical and Computer Engineering at [Georgia Institute of Technology]](https://www.gatech.edu/). I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani]](https://www.bits-pilani.ac.in/).
 
