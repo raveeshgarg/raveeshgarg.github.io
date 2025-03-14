@@ -4,12 +4,10 @@ layout: default
 ---
 
 <div class="profile-container">
-    <img src="path/to/photo.jpg" alt="Profile Photo" class="logo">
-    <h2>Raveesh Garg</h2>
+    <img src="photo.jpg" alt="Profile Photo" class="logo">
+    <h1>Raveesh Garg</h1>
 </div>
 
-
-# Raveesh Garg
 
 I am currently a PhD student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
