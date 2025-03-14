@@ -35,7 +35,7 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
   - *GPA*: 9.29/10
 
 ## Selected Publications and Pre-prints
-
+---
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5CKKG44AAAAJ)
 
 **CELLO: Co-designing Schedule and Hybrid Implicit/Explicit Buffer for Complex Tensor Reuse**  
