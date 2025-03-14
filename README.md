@@ -43,7 +43,7 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
 
 **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing**  
 Francisco Muñoz-Martínez, *Raveesh Garg*, Michael Pellauer, José L. Abellán, Manuel E. Acacio, and Tushar Krishna  
-*28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)*[[Published Paper Link](https://dl.acm.org/doi/10.1145/3582016.3582069) [[ArXiv Link]](https://arxiv.org/abs/2301.10852)  
+*28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)* [[Published Paper Link]](https://dl.acm.org/doi/10.1145/3582016.3582069) [[ArXiv Link]](https://arxiv.org/abs/2301.10852)  
 
 
 **Understanding the Design-Space of Sparse/Dense Multiphase GNN dataflows on Spatial Accelerators**  
@@ -96,6 +96,7 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 
 ## Contact
 
-**Email**: raveesh <dot> g <at> gatech <dot> edu
-**[LinkedIn](https://www.linkedin.com/in/raveesh-garg-61b47b150/)**
+*Email*: raveesh <dot> g <at> gatech <dot> edu
+
+[LinkedIn](https://www.linkedin.com/in/raveesh-garg-61b47b150/)
 
