@@ -4,3 +4,4 @@ show_downloads: false  # Hides GitHub buttons
 github:
   is_project_page: false  # Prevents GitHub repo details from appearing
 author: ""  # Removes GitHub username from the sidebar
+title: ""
