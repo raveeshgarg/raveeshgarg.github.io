@@ -4,8 +4,7 @@ logo: photo.jpg  # Adds profile photo in the sidebar
 sidebar_link: false  # Removes GitHub profile link from the sidebar
 show_downloads: false  # Hides "Download ZIP" and GitHub buttons
 github: false
-description:
-  Research Website
+description: Research Website
 footer_content:
 <p>
   <a href="Public_CV.pdf">CV</a><br>
