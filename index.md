@@ -19,7 +19,7 @@ Part-time Student Researcher at Meta Reality Labs; Atlanta, GA, USA (Aug 2022 �
 Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 – Aug 2022)
 
 
-## Education
+## <a id="education"></a> Education
 
  **PhD in Electrical and Computer Engineering** at Georgia Institute of Technology
   - *Advisors*: Dr. Tushar Krishna and Dr. Michael Pellauer
@@ -36,7 +36,7 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
   - *Duration*: 2015 to 2019
   - *GPA*: 9.29/10
 
-## Selected Publications and Pre-prints
+## <a id="publications"></a> Selected Publications and Pre-prints
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5CKKG44AAAAJ)
 
@@ -73,7 +73,7 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 
 
 
-## Artifacts
+## <a id="artifacts"></a> Artifacts
 
 **OMEGA**: A simulation Framework for Observing Mapping Efficiency over GNN Accelerators [[GitHub Repository]](http://github.com/stonne-simulator/omega)
 
@@ -93,12 +93,12 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
   - *Talk Title*: Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators
   - [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=119055)
 
-## Awards and Honors
+## <a id="awards"></a> Awards and Honors
 
 **Best Paper Award Nominee** at IPDPS 2022
   - *Note*: Top 5 from 474 submissions
 
-## Contact
+## <a id="contact"></a> Contact
 
 *Email*: raveesh.g@gatech.edu
 
