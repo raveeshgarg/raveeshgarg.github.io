@@ -8,7 +8,6 @@ I am currently a PhD student in Electrical and Computer Engineering at [Georgia 
 
 My research focuses on Domain-Specific Accelerators and Mapping for AI, Graph, and HPC Applications. My general research interests include Computer Architecture, Programmable Spatial Accelerators, Domain-Specific Accelerators for AI/HPC, and On-chip Networks.
 
-[CV](Public_CV.pdf) 
 
 ## <a id="experience"></a> Experience
 
