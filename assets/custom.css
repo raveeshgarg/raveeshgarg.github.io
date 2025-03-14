@@ -1,3 +1,21 @@
+body {
+    display: flex;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+/* Target the left sidebar */
 .sidebar {
-    background-color: #333333 !important;  /* Change this to any color */
+    background-color: #1e293b !important;  /* Change this to any color */
+    color: white !important;  /* Ensure text is visible */
+    padding: 20px;
+    min-height: 100vh; /* Full height */
+}
+
+/* Change sidebar text color */
+.sidebar h1, .sidebar h2, .sidebar p, .sidebar a {
+    color: white !important;
 }
