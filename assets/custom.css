@@ -10,7 +10,7 @@ body {
 /* Target the left sidebar */
 .sidebar {
     background-color: #1e293b !important;  /* Change this to any color */
-    color: white !important;  /* Ensure text is visible */
+    color: #333333 !important;  /* Ensure text is visible */
     padding: 20px;
     min-height: 100vh; /* Full height */
 }
