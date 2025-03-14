@@ -5,4 +5,4 @@ sidebar_link: false  # Removes GitHub profile link from the sidebar
 show_downloads: false  # Hides "Download ZIP" and GitHub buttons
 github: false
 description:
-  <a href="experience">Experience</a>
+  <a href="#experience">Experience</a>
