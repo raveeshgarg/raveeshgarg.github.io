@@ -22,7 +22,7 @@ My research focuses on Domain-Specific Accelerators and Mapping for AI, Graph, a
   - *GPA*: 4/4
 
 - **Master’s in Electrical and Computer Engineering** at Georgia Institute of Technology
-  - *Advisors*: Dr. Tushar Krishna and Dr. Michael Pellauer
+  - *Advisors*: Dr. Tushar Krishna
   - *Duration*: 2019 to 2021
   - *Master’s Thesis*: [Understanding the Design Space of Dataflows for Graph Neural Network Accelerators](https://smartech.gatech.edu/)
   - *GPA*: 4/4
