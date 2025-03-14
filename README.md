@@ -35,58 +35,40 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
   - *GPA*: 9.29/10
 
 ## Selected Publications and Pre-prints
----
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5CKKG44AAAAJ)
 
 **CELLO: Co-designing Schedule and Hybrid Implicit/Explicit Buffer for Complex Tensor Reuse**  
 *Raveesh Garg*, Michael Pellauer, Sivasankaran Rajamanickam, and Tushar Krishna  
-*39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)* [**Accepted for publication**]  
-[[ArXiv Link]](https://arxiv.org/pdf/2303.11499)  
+*39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)* [**Accepted for publication**][[ArXiv Link]](https://arxiv.org/pdf/2303.11499)  
 
----
 
 **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing**  
 Francisco Muñoz-Martínez, *Raveesh Garg*, Michael Pellauer, José L. Abellán, Manuel E. Acacio, and Tushar Krishna  
-*28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)*  
-[[Published Paper Link]](https://dl.acm.org/doi/10.1145/3582016.3582069)  
-[[ArXiv Link]](https://arxiv.org/abs/2301.10852)  
+*28th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2023)*[[Published Paper Link](https://dl.acm.org/doi/10.1145/3582016.3582069) [[ArXiv Link]](https://arxiv.org/abs/2301.10852)  
 
----
 
 **Understanding the Design-Space of Sparse/Dense Multiphase GNN dataflows on Spatial Accelerators**  
 
 *Raveesh Garg*, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L. Abellán, Manuel E. Acacio, Eduard Alarcón, Sivasankaran Rajamanickam, and Tushar Krishna  
-*36th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2022)*  
-[[Published Paper Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9820725)  
-[[ArXiv Link]](https://arxiv.org/abs/2103.07977)  
+*36th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2022)* [[Published Paper Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9820725)[[ArXiv Link]](https://arxiv.org/abs/2103.07977)  
 **_Best Paper Nominee (Top 5 out of 474 submissions)_**  
 
----
+
 
 **HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**  
-
 *Raveesh Garg*, Michael Pellauer, and Tushar Krishna  
+*arXiv preprint arXiv:2502.13113 (2025)*  [[ArXiv Link]](https://arxiv.org/abs/2502.13113)  
 
-*arXiv preprint arXiv:2502.13113 (2025)*  
-[[ArXiv Link]](https://arxiv.org/abs/2502.13113)  
-
----
 
 **Pipeorgan: Efficient Inter-operation Pipelining with Flexible Spatial Organization and Interconnects**  
-
 *Raveesh Garg*, Hyoukjun Kwon, Eric Qin, Yu-Hsin Chen, Tushar Krishna, and Liangzhen Lai  
+*arXiv preprint arXiv:2405.01736 (2024)*  [[ArXiv Link]](https://arxiv.org/abs/2405.01736)  
 
-*arXiv preprint arXiv:2405.01736 (2024)*  
-[[ArXiv Link]](https://arxiv.org/abs/2405.01736)  
-
----
 
 **Enabling Flexibility for Sparse Tensor Acceleration via Heterogeneity**  
-
 Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Parashar, Sivasankaran Rajamanickam, Cong Hao, and Tushar Krishna  
-
-*arXiv preprint arXiv:2201.08916 (2022)*  
-[[ArXiv Link]](https://arxiv.org/abs/2201.08916)  
+*arXiv preprint arXiv:2201.08916 (2022)*  [[ArXiv Link]](https://arxiv.org/abs/2201.08916)  
 
 
 
