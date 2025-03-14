@@ -96,7 +96,7 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 
 ## Contact
 
-*Email*: raveesh <dot> g <at> gatech <dot> edu
+*Email*: raveesh.g@gatech.edu
 
 [LinkedIn](https://www.linkedin.com/in/raveesh-garg-61b47b150/)
 
