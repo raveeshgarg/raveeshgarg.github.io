@@ -4,8 +4,7 @@ layout: default
 ---
 
 <div class="profile-container">
-    <img src="photo.jpg" alt="Profile Photo" class="logo">
-    <h1>Raveesh Garg</h1>
+    <h1 align = "center">Raveesh Garg</h1>
 </div>
 
 
