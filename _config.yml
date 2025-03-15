@@ -1,6 +1,6 @@
 remote_theme: fongandrew/hydeout
 title: Raveesh Garg  
-sidebar_link: false  
+sidebar_link: true  
 show_downloads: false  # Hides "Download ZIP" and GitHub buttons
 github: false
 description: Research Website
