@@ -1,15 +1,19 @@
-theme: jekyll-theme-minimal  
-title: Raveesh Garg  # Website title
-logo: photo.jpg  # Adds profile photo in the sidebar
-sidebar_link: false  # Removes GitHub profile link from the sidebar
+remote_theme: fongandrew/hydeout
+title: Raveesh Garg  
+sidebar_link: false  
 show_downloads: false  # Hides "Download ZIP" and GitHub buttons
 github: false
-description: <p>Research Website<br>
-  <a href="Public_CV.pdf">CV</a><br>
-  <a href="#experience">Experience</a> <br>
-  <a href="#education">Education</a> <br>
-  <a href="#publications">Select Publications</a>, <a href="https://scholar.google.com/citations?user=5CKKG44AAAAJ&hl=en">Google Scholar</a> <br>
-  <a href="#artifacts">Artifacts, Workshops, Tutorials and Talks</a> <br>
-  <a href="#awards">Awards</a> <br>
-  <a href="#contact">Contact</a>
-  </p>
+description: Research Website
+nav_links:
+  - title: "Public CV"
+    url: "Public_CV.pdf"
+  - title: "Experience"
+    url: "#experience"
+  - title: "Education"
+    url: "#education"
+  - title: "Select Publications"
+    url: "#publications"
+  - title: "Awards and Honors"
+    url: "#awards"
+  - title: "Contact"
+    url: "#contact"
