@@ -45,7 +45,7 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
 
 **CELLO: Co-designing Schedule and Hybrid Implicit/Explicit Buffer for Complex Tensor Reuse**  
 *Raveesh Garg*, Michael Pellauer, Sivasankaran Rajamanickam, and Tushar Krishna  
-*39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)* [**Accepted for publication**][[ArXiv Link]](https://arxiv.org/pdf/2303.11499)  
+*39th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2025)* [[Published Paper Link]](https://ieeexplore.ieee.org/document/11078567)[[ArXiv Link]](https://arxiv.org/pdf/2303.11499)  
 
 
 **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing**  
