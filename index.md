@@ -57,7 +57,7 @@ Francisco Muñoz-Martínez, *Raveesh Garg*, Michael Pellauer, José L. Abellán,
 **Understanding the Design-Space of Sparse/Dense Multiphase GNN dataflows on Spatial Accelerators**  
 *Raveesh Garg*, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L. Abellán, Manuel E. Acacio, Eduard Alarcón, Sivasankaran Rajamanickam, and Tushar Krishna  
 *36th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2022)* [[Published Paper Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9820725)[[ArXiv Link]](https://arxiv.org/abs/2103.07977)  
-<b><span style="color:red">Best Paper Award Candidate - Selected among 5 out of 474 submissions (top ~1% globally) </span></b> 
+<b><span style="color:red">Best Paper Award Candidate - Selected among 5 out of 474 submissions (top 1.05% globally) </span></b> 
 
 
 
@@ -105,7 +105,7 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 ## <a id="awards"></a> Awards and Honors
 
 **Best Paper Award Nominee** at IPDPS 2022
-  - First authored paper at IPDPS 2022 selected among top 5 among 474 submissions to the conference.
+  - First authored paper at IPDPS 2022 selected among top 5 among 474 (~top 1%) submissions globally.
 
 ## <a id="contact"></a> Contact
 
