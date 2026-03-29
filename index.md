@@ -4,12 +4,16 @@ layout: default
 ---
 
 
-I am currently a PhD student in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/). I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
+I am currently a research scientist at IBM TJ Watson Research Center, working on compiler optimizations and AI core architecture for the Spyre AI accelerator[https://research.ibm.com/blog/lifting-the-cover-on-the-ibm-spyre-accelerator].
+
+I completed my PhD in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/) in Spring 2025. I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
 My research focuses on Domain-Specific Accelerators and Mapping for AI, Graph, and HPC Applications. My general research interests include Computer Architecture, Programmable Spatial Accelerators, Domain-Specific Accelerators for AI/HPC, and On-chip Networks.
 
 
 ## <a id="experience"></a> Experience
+
+Research Scientist at IBM Research – TJ Watson Center, Yorktown Heights, NY, USA (May 2025 – Present)
 
 Research Intern at IBM Research – TJ Watson Center, Yorktown Heights, NY, USA (May 2024 – Aug 2024)
 
