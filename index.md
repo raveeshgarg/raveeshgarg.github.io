@@ -27,6 +27,7 @@ Research Scientist Intern at Meta Reality Labs; Sunnyvale, CA, USA (May 2022 –
  **PhD in Electrical and Computer Engineering** at Georgia Institute of Technology
   - *Advisors*: Dr. Tushar Krishna and Dr. Michael Pellauer
   - *Duration*: 2021 to Present
+  - *PhD Thesis*: [Architectures and Data Orchestration for Tensor Algebra Applications with Low-Reuse Operations](https://repository.gatech.edu/server/api/core/bitstreams/f297c6fc-d5d2-48ed-a9ce-cada88de86ba/content)
   - *GPA*: 4/4
 
  **Master’s in Electrical and Computer Engineering** at Georgia Institute of Technology
