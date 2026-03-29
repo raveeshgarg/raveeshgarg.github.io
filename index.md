@@ -99,6 +99,7 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 **2023 SST User Conference** SST (Structural Simulation Toolkit) is a key tool used by national labs and semiconductor industry to model large scale computers.
   - *Talk Title*: Enabling Detailed Cycle-Level Simulation of AI and HPC Applications with Detailed Memory Hierarchy using SST-STONNE	
   - [Artifact](https://github.com/stonne-simulator/sst-elements-with-stonne)
+  - [Agenda](https://crnch.gatech.edu/sst-user-group-2023/)
 
 ## <a id="awards"></a> Awards and Honors
 
