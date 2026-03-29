@@ -95,15 +95,16 @@ Eric Qin, *Raveesh Garg*, Abhimanyu Bambhaniya, Michael Pellauer, Angshuman Para
 **Minisymposium** “Co-Design of Data Flow Accelerators for Scientific Simulations and Machine Learning” at SIAM PP’22.
   - *Talk Title*: Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators
   - [Abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=119055)
+**SST User Conference** SST (Structural Simulation Toolkit) is a key tool used by national labs and semiconductor industry to model large scale computers.
+  - *Talk Title*: Enabling Detailed Cycle-Level Simulation of AI and HPC Applications with Detailed Memory Hierarchy using SST-STONNE	
+  - [Artifact](https://github.com/stonne-simulator/sst-elements-with-stonne)
 
 ## <a id="awards"></a> Awards and Honors
 
 **Best Paper Award Nominee** at IPDPS 2022
-  - *Note*: Top 5 from 474 submissions
+  - First authored paper at IPDPS 2022 selected among top 5 among 474 submissions to the conference.
 
 ## <a id="contact"></a> Contact
-
-*Email*: raveesh.g@gatech.edu
 
 [LinkedIn](https://www.linkedin.com/in/raveesh-garg-61b47b150/)
 
