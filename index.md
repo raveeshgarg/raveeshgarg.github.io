@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-I am currently a research scientist at IBM TJ Watson Research Center, working on compiler optimizations and AI core architecture for the Spyre AI accelerator[https://research.ibm.com/blog/lifting-the-cover-on-the-ibm-spyre-accelerator].
+I am currently a research scientist at IBM TJ Watson Research Center, working on compiler optimizations and AI core architecture for the [Spyre AI accelerator](https://research.ibm.com/blog/lifting-the-cover-on-the-ibm-spyre-accelerator).
 
 I completed my PhD in Electrical and Computer Engineering at [Georgia Institute of Technology](https://www.gatech.edu/) in Spring 2025. I joined Georgia Tech in Fall 2019 after completing my Bachelor of Engineering in Electronics and Instrumentation Engineering from [Birla Institute of Technology and Science, Pilani](https://www.bits-pilani.ac.in/).
 
